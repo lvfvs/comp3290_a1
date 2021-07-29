@@ -1,0 +1,23 @@
+/*
+ * File:             a1.java
+ * Title:            Project Part 1: Programming in Source Language and Scanner
+ * Course:           COMP3290 Compiler Design, Semester 2 2021
+ * Author:           Olivia Favos
+ * Student Number:   3188124
+ * Due Date:         15/08/2021
+ * Description:
+ */
+
+/**
+ * Make a note of what this class does
+ */
+
+public class a1{
+    public static void main(String[] args){
+
+    }
+}
+
+
+// TODO: Find a way to grab input source file text
+// TODO: Then find a way to get the tokens
